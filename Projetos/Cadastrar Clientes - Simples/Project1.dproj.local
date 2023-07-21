@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/05 17:01:57.000.451,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/10 09:30:40.000.633,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 01:23:52.000.941,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 01:31:16.000.352,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\Projetos\Cadastrar Clientes - Simples\frmPrincipal.dfm</Transaction>
+    <Transaction>2023/07/21 01:31:16.000.352,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\Projetos\Cadastrar Clientes - Simples\frmPrincipal.pas</Transaction>
+    <Transaction>2023/07/21 08:53:54.000.564,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\Projetos\Cadastrar Clientes - Simples\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

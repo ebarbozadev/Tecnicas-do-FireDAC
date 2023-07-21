@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/05 17:01:57.000.451,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/10 09:30:40.000.633,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:20:00.000.498,=C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:22:26.000.846,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\MetaInfoQuery\Unit1.dfm</Transaction>
+    <Transaction>2023/07/21 13:22:26.000.846,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\MetaInfoQuery\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:22:31.000.926,C:\Users\geren\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\geren\OneDrive\Documentos\Delphi\Tecnicas do FireDAC\MetaInfoQuery\Metadados.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
